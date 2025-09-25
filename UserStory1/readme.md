@@ -10,5 +10,6 @@
 ```bash
 git clone https://github.com/yxdth3/Java-UserStories.git
 cd Java-UserStories
+cd UserStory1
 mvn compile
-mvn exec:java -Dexec.mainClass="com.userstory1.academico.App"
+mvn exec:java -Dexec.mainClass="com.mycompany.userstory1.App"
