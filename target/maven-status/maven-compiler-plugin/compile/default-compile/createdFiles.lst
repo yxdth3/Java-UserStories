@@ -1,0 +1,5 @@
+com/riwi/academia/service/EstudianteService.class
+com/riwi/academia/db/ConnectionDB.class
+com/riwi/academia/db/EstudianteDAO.class
+com/riwi/academia/domain/Estudiante.class
+com/riwi/academia/Academia.class
